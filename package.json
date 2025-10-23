@@ -1,5 +1,5 @@
 {
-  "name": "presi-workers-as-glue",
+  "name": "nanamislide",
   "private": true,
   "scripts": {
     "build": "slidev build",

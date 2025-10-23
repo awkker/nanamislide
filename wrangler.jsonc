@@ -1,5 +1,5 @@
 {
-  "name": "presi-workers-as-glue",
+  "name": "nanamislide",
   "main": "src/index.ts",
   "compatibility_date": "2025-08-01",
   "compatibility_flags": ["nodejs_compat"],
